@@ -14,11 +14,11 @@ Operating system kernels store various information about running processes. This
 
 Most modern computer systems support graphical user interfaces (GUI), and often include them. In some computer systems, such as the original implementations of Microsoft Windows and the Mac OS, the GUI is integrated into the kernel.
 
-> translate
+> Множество современных компьютерных систем поддерживают графический интерфейс пользователя (ГУЙ), и зачастую они включены. В некоторых компьютерных системах, таких как оригинально реализованных MS Windows и Mac OS, ГУЙ интегрирован в ядро.
 
 While technically a graphical user interface is not an operating system service, incorporating support for one into the operating system kernel can allow the GUI to be more responsive by reducing the number of context switches required for the GUI to perform its output functions. Other operating systems are modular, separating the graphics subsystem from the kernel and the Operating System. In the 1980s UNIX, VMS and many others had operating systems that were built this way. Linux and Mac OS X are also built this way. Modern releases of Microsoft Windows such as Windows Vista implement a graphics subsystem that is mostly in user-space, however versions between Windows NT 4.0 and Windows Server 2003’s graphics drawing routines exist mostly in kernel space. Windows 9x had very little distinction between the interface and the kernel.
 
-> Translate
+> Хотя технически графический интерфейс пользователя не является службой операционной системы
 
 Many computer operating systems allow the user to install or create any user interface they desire. The X Window System in conjunction with GNOME or KDE is a commonly-found setup on most Unix and Unix-like (BSD, Linux, Minix) systems. A number of Windows shell replacements have been released for Microsoft Windows, which offer alternatives to the included Windows shell, but the shell itself cannot be separated from Windows.
 
@@ -31,4 +31,3 @@ Numerous Unix-based GUIs have existed over time, most derived from XI1. Competit
 Graphical user interfaces evolve over time. For example, Windows has modified its user interface, almost every time a new major version of Windows is released, and the Mac OS GUI changed dramatically with the introduction of Mac OS X in 2001.
 
 > Translate
-
