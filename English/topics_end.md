@@ -10,7 +10,7 @@ Storage devices are used to store programs and data that are not being used and 
 
 ---
 
-## 1. OPERATING SYSTEMS
+## 2. OPERATING SYSTEMS
 
 The operating system is a set of computer programs that allow the user to perform basic tasks like copying, moving, saving and printing files. It also provides an interface between applications programs and computer hardware. As a user interacts with an application program on the screen, the applications program communicates with the operating system that in its turn communicates with the computer hardware. The work of the operating system takes place in the background and is invisible for the user.
 
