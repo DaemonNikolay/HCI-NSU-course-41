@@ -55,7 +55,7 @@ MIDI (Musical Instrument Digital Interface) is a standard way of connecting musi
 MPEG is a method of compressing and decompressing video signals. It works like this. The single data stream off the CD-ROM is split into video and audio components, which are then decompressed using separate algorithms. MPEG stands for Motion Picture Experts Group, an organisation that develops standards for audio and video compression.
 
 
-
+> ---
 
 Multimedia combination of text, graphics, animation, sound and video. 
 
