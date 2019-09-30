@@ -54,6 +54,18 @@ MIDI (Musical Instrument Digital Interface) is a standard way of connecting musi
 
 MPEG is a method of compressing and decompressing video signals. It works like this. The single data stream off the CD-ROM is split into video and audio components, which are then decompressed using separate algorithms. MPEG stands for Motion Picture Experts Group, an organisation that develops standards for audio and video compression.
 
+
+
+
+Multimedia combination of text, graphics, animation, sound and video. 
+
+MP3 (MPEG Audio Layer3) is a standard way of storing compressed, digital audio files. ~Digital audio is created by sampling sound 44,000 times a second and storing a code number to represent each sound sample.~ The files are compressed by removing any sounds that are inaudible to the human ear, making them much smaller than ~files created using other digital audio storage standards, such as~ WAV _files_. The size of an audio file is commonly measured in MB, whereas the frequency ~of a sound~ is measured in kilohertz (kHz). MP3 files have ~extra code added, called~ tags that give the user information about the file. Due to their small size, MP3 files ~are more suitable for transferring~ _can be transferred_ across the Internet.
+
+MIDI (Musical Instrument Digital Interface) is a standard way of connecting musical instruments, ~music synthesizers~ and computers. ~A piece of electronics called MIDI Interface Board is installed on each device to enable the device to communicate using MIDI standards.~ ~As~ music ~is being played, it~ can be displayed on a monitor screen as a musical score and then edited with a computer program, ~using all the features of a mixing desk,~ stored and printed. MIDI systems do not store the actual sound. ~Instead of tit~ the sound is encoded in the form of ~8-bit bytes~ of digital information.
+
+MPEG is a method of compressing and decompressing video signals. It works like this~.~ _:_ The single data stream ~off the CD-ROM~ is split into video and audio components, ~which are~ _and_ then decompressed using separate algorithms. MPEG stands for Motion Picture Experts Group~, an organisation that develops standards for audio and video compression~.
+
+
 > Translate
 
 ---
