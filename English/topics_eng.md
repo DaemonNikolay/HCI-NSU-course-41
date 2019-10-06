@@ -6,8 +6,6 @@ In a desktop computer, the CPU and storage devices are normally built inside a s
 
 Storage devices are used to store programs and data that are not being used and before using it must be transferred from the storage device to the main memory called RAM. Hard disks consist of a set of magnetic coated disks that are vacuum-sealed inside a case to keep out the dust. The magnetic surfaces of the disks are formatted using a read/write head to provide magnetic storage areas. In server computers, hard disks can be connected together and operate as one unit using RAID. This can speed up the system and provide a way of recovering data if the system crashes.
 
-> Translate
-
 ---
 
 ## 2. OPERATING SYSTEMS
@@ -17,8 +15,6 @@ The operating system is a set of computer programs that allow the user to perfor
 The most important program in an OS is the supervisor program. It remains in memory all the time that the computer is operating and manages the OS. It loads other parts of the OS into memory only when they are needed. Programs that remain in memory while the computer is in use are known as resident programs. Programs that only stay in memory while they are being used are known as non-resident programs.
 
 Some operating systems are command driven as Unix, for example. Unix can be used on all sizes of computers but mostly large multi-user, multi-tasking mainframe computers and is available in many versions, such as Linux, Minix, Solaris and PowerOpen. Some OS have a Graphical User Interface that allows a user to use a mouse to click on icons on the screen or choose commands from a menu.
-
-> Translate
 
 ---
 
@@ -30,8 +26,6 @@ Commands are displayed in a menu bar along the top of the window. Clicking on a 
 
 special area called the system tray displayed icons show what resident programs are running in the background. At the far left of the taskbar there is a Start button which opens the Start menu on the screen when clicked on. The OS can be closed by choosing Shut Down option on the Start Menu. A touchscreen allows users to select icons and commands by touching the display screen with their finger instead of using a mouse.
 
-> Translate
-
 ---
 
 ## 4. APPLICATION SERVICE PROVIDERS
@@ -39,8 +33,6 @@ special area called the system tray displayed icons show what resident programs 
 An ASP rents applications to users so that instead of buying software, the user pays for using applications as and when they need them. The ASP provides the required software, manages the hardware and provides storage space, security controls and the physical links to their customers. The ASP normally leases storage space for programs and data from Data Centres owned by data storage specialists. The user is provided with remote access to a wide variety of programs including generic applications as Email and office suites, business services, such as payroll and accounting systems, expensive specialist tools and e-commerce resources. Therefore, small businesses have the opportunity to use such tools for short periods of time as and when they need them, rather than having to buy the software as a permanent investment. This gives the ASP customer more flexibility and they don’t have to install and maintain programs, upgrade, deal with viruses and manage email systems.
 
 However, there are some potential pitfalls. To use applications remotely requires a lot of a bandwidth which is really available from a broadband connections or a leased line to the ASP itself. It is also important to ensure that the ASP will be able to provide a secure, reliable service which will be available whenever you need it. Nevertheless, the idea of ASP use is rather progressive and is a background of Cloud Computing concept popular nowadays.
-
-> Translate
 
 ---
 
@@ -54,8 +46,7 @@ MIDI (Musical Instrument Digital Interface) is a standard way of connecting musi
 
 MPEG is a method of compressing and decompressing video signals. It works like this. The single data stream off the CD-ROM is split into video and audio components, which are then decompressed using separate algorithms. MPEG stands for Motion Picture Experts Group, an organisation that develops standards for audio and video compression.
 
-
-> ---
+> Simplified
 
 Multimedia combination of text, graphics, animation, sound and video. 
 
@@ -65,9 +56,6 @@ MIDI (Musical Instrument Digital Interface) is a standard way of connecting musi
 
 MPEG is a method of compressing and decompressing video signals. It works like this~.~ _:_ The single data stream ~off the CD-ROM~ is split into video and audio components, ~which are~ _and_ then decompressed using separate algorithms. MPEG stands for Motion Picture Experts Group~, an organisation that develops standards for audio and video compression~.
 
-
-> Translate
-
 ---
 
 ## 6. NETWORKS
@@ -76,7 +64,7 @@ Computers and peripherals connected together form a network. Networks allow comm
 
 Various electronic devices are also used to amplify, filter and determine the best path for the signals. These include bridges for dividing a LAN into separate parts or connecting similar networks together, gateways for connecting different types of networks and routers for connecting different networks together, determining the best route for the signals and forming the Internet. A modem (modulator/demodulator) is used to convert signals from analogue (having a variety of levels) to digital (having only two levels, representing on and off) for connection to the ordinary telephone system. Alternatively, an ISDN adapter or a DSL modem can be used to allow digital signals to be used without being converted to analogue signals.
 
-> Translate
+
 
 ---
 
@@ -86,7 +74,7 @@ There are different standard methods of connecting computers in a LAN. One of th
 
 In a client/ server network the main server computer provides the services and the attached client computers can be normal computers or simple terminals. Terminals require the server to do most of all the processing. A thin client (or thin terminal), such as a NetPC, has a processor that does some of the processing, whereas a dumb terminal does not have a processor and all the processing has to be done by the server computer.
 
-> Translate
+
 
 ---
 
@@ -98,7 +86,7 @@ At present most of this communication is written, although video- and audio-conf
 
 With the exception of video-conferencing, there is no opportunity for paralinguistic features such as gesture. To compensate, users have developed a number of strategies including: abbreviations and acronyms (e.g. LOL – lots of laughs), simplified syntax and other symbols and exclamation marks to express emotional meaning. Symbols indicating emotions are called emoticons and phrases called emotes display action in chat rooms.
 
-> Translate
+
 
 ---
 
@@ -108,7 +96,7 @@ The World Wide Web is a service on the Internet. It consists of sets of linked d
 
 The message requesting the webpage is divided into packets and each separate data packet is passed from router to router until they all reach the remote Web server. Then they are put back together again. The remote Web server sends the requested webpage back to the browser computer that made the request in a similar way using IP address of the browser computer to determine the best available route for each packet. When the packets arrive at the browser computer, they are combined and the requested webpage is displayed in the browser.
 
-> Translate
+
 
 ---
 
@@ -125,8 +113,6 @@ When a virus attaches to operating system programs, it is said to have patched t
 
 A program that has a payload but does not have a reproduction routine is known as a Trojan.
 
-> Translate
-
 ---
 
 ## 11.  COMPUTERS IN OUR LIFE
@@ -137,8 +123,6 @@ Unlike most machines, computers do not have a fixed purpose. They are multi-purp
 
 As computer systems are developed, they are becoming more common and are being used for more and more purposes. People – computer users and computer professionals – are the ones who will decide how to use and develop information technology not only efficiently but in a socially responsible way.
 
-> Translate
-
 ---
 
 ## 12. CACHE MEMORY. HOW IT WORKS.
@@ -147,4 +131,3 @@ One of the most important techniques to make the time taken to move data in and 
 
 Disk caching works in the same way whether you have a cache on your disk or you are using a software-based solution. First, the CPU requests the new data. If the data is not in the cache, the cache itself requests the data from the hard disk. The data is read from the hard disk including data adjacent to it. The cache replaces old data with the requested data. Depending on the algorithm being used, the cache replaces either the information that has been in the cache the longest or the least recently used. After that, the cache supplies CPU with requested data. Moreover, the cache already has the adjacent data which was loaded alongside with the requested data and can use it as soon as the CPU makes a similar request which of course is very convenient and speeds up the whole process.
 
-> Translate
