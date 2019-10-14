@@ -62,8 +62,6 @@ Computers and peripherals connected together form a network. Networks allow comm
 
 Various electronic devices are also used to amplify, filter and determine the best path for the signals. These include bridges for dividing a LAN into separate parts or connecting similar networks together, gateways for connecting different types of networks and routers for connecting different networks together, determining the best route for the signals and forming the Internet. A modem (modulator/demodulator) is used to convert signals from analogue (having a variety of levels) to digital (having only two levels, representing on and off) for connection to the ordinary telephone system. Alternatively, an ISDN adapter or a DSL modem can be used to allow digital signals to be used without being converted to analogue signals.
 
-
-
 ---
 
 ## 7. LAN TYPES
@@ -72,14 +70,11 @@ There are different standard methods of connecting computers in a LAN. One of th
 
 In a client/ server network the main server computer provides the services and the attached client computers can be normal computers or simple terminals. Terminals require the server to do most of all the processing. A thin client (or thin terminal), such as a NetPC, has a processor that does some of the processing, whereas a dumb terminal does not have a processor and all the processing has to be done by the server computer.
 
-
----
+> Simplified
 
 There are different standard methods of connecting computers in a LAN. One of the most common is Ethernet. Each computer must have a network adapter. Its known as a network interface card (NIC). All the computers through are connected through a hub. The hub is used to amplify the signals to prevent them from becoming too weak before they reach the final point. The computers are connected to the hub by twisted-pair cabling. Its two cables twisted together eliminate interference from external signals. In a home network, the mains power cables can be used. Nowadays, wireless networks use a radio transmitter and a receiver instead of cabling.
 
 In a client / server network there is server computer and the attached client computers. They can be normal computers or simple terminals. Terminals require the server to do most of all the processing. A thin terminal, such as a NetPC, has a processor, but a dumb terminal does not have a processor and all the processing is done by the server computer.
-
-
 
 ---
 
