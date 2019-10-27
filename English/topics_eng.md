@@ -70,7 +70,7 @@ In a client/ server network the main server computer provides the services and t
 
 > Simplified
 
-There are different standard methods of connecting computers in a LAN. One of the most common is Ethernet. Each computer must have a network adapter. Its known as a network interface card (NIC). All the computers through are connected through a hub. The hub is used to amplify the signals to prevent them from becoming too weak before they reach the final point. The computers are connected to the hub by twisted-pair cabling. Its two cables twisted together eliminate interference from external signals. In a home network, the mains power cables can be used. Nowadays, wireless networks use a radio transmitter and a receiver instead of cabling.
+There are different standard methods of connecting computers in a LAN. One of the most common is Ethernet. Each computer must have a network adapter. Its known as a network interface card (NIC). All the computers are connected through a hub. The hub is used to amplify the signals to prevent them from becoming too weak before they reach the final point. The computers are connected to the hub by twisted-pair cabling. Its two cables twisted together eliminate interference from external signals. In a home network, the mains power cables can be used. Nowadays, wireless networks use a radio transmitter and a receiver instead of cabling.
 
 In a client / server network there is server computer and the attached client computers. They can be normal computers or simple terminals. Terminals require the server to do most of all the processing. A thin terminal, such as a NetPC, has a processor, but a dumb terminal does not have a processor and all the processing is done by the server computer.
 
