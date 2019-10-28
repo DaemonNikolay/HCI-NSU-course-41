@@ -46,11 +46,13 @@ MPEG is a method of compressing and decompressing video signals. It works like t
 
 > Simplified
 
-Multimedia combination of text, graphics, animation, sound and video.
+Multimedia combination of text, graphics, animation, sound and video. 
 
-MP3 (MPEG Audio Layer3) is a standard way of storing compressed, digital audio files. The files are compressed by removing any sounds that are inaudible to the human ear, making them much smaller than WAV files. The size of an audio file is commonly measured in MB, whereas the frequency  is measured in kilohertz (kHz). MP3 files have tags that give the user information about the file. Due to their small size, MP3 files can be transferred across the Internet.
+MP3 (MPEG Audio Layer3) is a standard way of storing compressed, digital audio files. ~Digital audio is created by sampling sound 44,000 times a second and storing a code number to represent each sound sample.~ The files are compressed by removing any sounds that are inaudible to the human ear, making them much smaller than ~files created using other digital audio storage standards, such as~ WAV _files_. The size of an audio file is commonly measured in MB, whereas the frequency ~of a sound~ is measured in kilohertz (kHz). MP3 files have ~extra code added, called~ tags that give the user information about the file. Due to their small size, MP3 files ~are more suitable for transferring~ _can be transferred_ across the Internet.
 
-MIDI (Musical Instrument Digital Interface) is a standard way of connecting musical instruments, and computers. Music can be displayed on a monitor screen as a musical score and then edited with a computer program, stored and printed. MIDI systems do not store the actual sound. The sound is encoded in the form of 8-bit bytes of digital information. MPEG is a method of compressing and decompressing video signals. It works like this: the single data stream is split into video and audio components, and then decompressed using separate algorithms. MPEG stands for Motion Picture Experts Group.
+MIDI (Musical Instrument Digital Interface) is a standard way of connecting musical instruments, ~music synthesizers~ and computers. ~A piece of electronics called MIDI Interface Board is installed on each device to enable the device to communicate using MIDI standards.~ ~As~ music ~is being played, it~ can be displayed on a monitor screen as a musical score and then edited with a computer program, ~using all the features of a mixing desk,~ stored and printed. MIDI systems do not store the actual sound. ~Instead of tit~ the sound is encoded in the form of ~8-bit bytes~ of digital information.
+
+MPEG is a method of compressing and decompressing video signals. It works like this~.~ _:_ The single data stream ~off the CD-ROM~ is split into video and audio components, ~which are~ _and_ then decompressed using separate algorithms. MPEG stands for Motion Picture Experts Group~, an organisation that develops standards for audio and video compression~.
 
 ---
 
@@ -70,7 +72,7 @@ In a client/ server network the main server computer provides the services and t
 
 > Simplified
 
-There are different standard methods of connecting computers in a LAN. One of the most common is Ethernet. Each computer must have a network adapter. Its known as a network interface card (NIC). All the computers are connected through a hub. The hub is used to amplify the signals to prevent them from becoming too weak before they reach the final point. The computers are connected to the hub by twisted-pair cabling. Its two cables twisted together eliminate interference from external signals. In a home network, the mains power cables can be used. Nowadays, wireless networks use a radio transmitter and a receiver instead of cabling.
+There are different standard methods of connecting computers in a LAN. One of the most common is Ethernet. Each computer must have a network adapter. Its known as a network interface card (NIC). All the computers through are connected through a hub. The hub is used to amplify the signals to prevent them from becoming too weak before they reach the final point. The computers are connected to the hub by twisted-pair cabling. Its two cables twisted together eliminate interference from external signals. In a home network, the mains power cables can be used. Nowadays, wireless networks use a radio transmitter and a receiver instead of cabling.
 
 In a client / server network there is server computer and the attached client computers. They can be normal computers or simple terminals. Terminals require the server to do most of all the processing. A thin terminal, such as a NetPC, has a processor, but a dumb terminal does not have a processor and all the processing is done by the server computer.
 
@@ -84,6 +86,13 @@ At present most of this communication is written, although video- and audio-conf
 
 With the exception of video-conferencing, there is no opportunity for paralinguistic features such as gesture. To compensate, users have developed a number of strategies including: abbreviations and acronyms (e.g. LOL – lots of laughs), simplified syntax and other symbols and exclamation marks to express emotional meaning. Symbols indicating emotions are called emoticons and phrases called emotes display action in chat rooms.
 
+> Simplified
+
+Computer-mediated communication is a term used to describe systems that allow users to communicate using a computer network. Moreover, CMC has recently become new national pastime among young people.
+
+At present most of this communication is written, although video- and audio-conferencing permit speech. Most computer-mediated communication is asynchronous. That means that the participants are not on line at the same time and there are delays between messages. The examples are : mobile phone text messages, chat rooms, emails, bulletin boards and news- or discussion groups. Synchronous CMC depends on participants being on line at the same time. There may be a few seconds delay but, nevertheless, this kind of communication is closer to face-to-face interaction. Examples of synchronous communication include: Internet Relay Chat, MOOs, audio- and video-conferencing.
+
+Communicating in written form, people are unable to use body language. To compensate we can use: abbreviations and acronyms (e.g. LOL – lots of laughs), simplified syntax and other symbols to express emotional meaning. Symbols indicating emotions are called emoticons and phrases called emotes display action in chat rooms.
 
 
 ---
@@ -94,6 +103,11 @@ The World Wide Web is a service on the Internet. It consists of sets of linked d
 
 The message requesting the webpage is divided into packets and each separate data packet is passed from router to router until they all reach the remote Web server. Then they are put back together again. The remote Web server sends the requested webpage back to the browser computer that made the request in a similar way using IP address of the browser computer to determine the best available route for each packet. When the packets arrive at the browser computer, they are combined and the requested webpage is displayed in the browser.
 
+> Simplified
+
+The World Wide Web is a service on the Internet. It consists of webpages which can be viewed using a browser. The links on a webpage are called hyperlinks and contain the Web address of the webpage. It is also known as a URL (Uniform Resource Locator). When a user clicks on a hyperlink, the browser program contacts DNS (Domain Name System) server to look up the IP address of the remote server. The DNS has a table of names and addresses of nodes on the Internet. The request is sent to a router. It uses the Internet address to route the request.
+
+The message requesting the webpage is divided into packets. Each separate packet is passed from router to router until they all reach the remote Web server. Then they are put back together again. The remote Web server sends the requested webpage back. The server searches for the best way for each packet. When the packets arrive at the client, they are combined together. The requested webpage is displayed in the browser.
 
 
 ---
