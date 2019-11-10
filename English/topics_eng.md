@@ -1,4 +1,4 @@
-# Topis
+# Topics
 
 ## 1. COMPUTER ARCHITECTURE
 
@@ -30,7 +30,7 @@ Commands are displayed in a menu bar along the top of the window. Clicking on a 
 
 An ASP rents applications to users so that instead of buying software, the user pays for using applications as and when they need them. The ASP provides the required software, manages the hardware and provides storage space, security controls and the physical links to their customers. The ASP normally leases storage space for programs and data from Data Centres owned by data storage specialists. The user is provided with remote access to a wide variety of programs including generic applications as Email and office suites, business services, such as payroll and accounting systems, expensive specialist tools and e-commerce resources. Therefore, small businesses have the opportunity to use such tools for short periods of time as and when they need them, rather than having to buy the software as a permanent investment. This gives the ASP customer more flexibility and they don’t have to install and maintain programs, upgrade, deal with viruses and manage email systems.
 
-However, there are some potential pitfalls. To use applications remotely requires a lot of a bandwidth which is really available from a broadband connections or a leased line to the ASP itself. It is also important to ensure that the ASP will be able to provide a secure, reliable service which will be available whenever you need it. Nevertheless, the idea of ASP use is rather progressive and is a background of Cloud Computing concept popular nowadays.
+However, there are some potential pitfalls. To use applications remotely requires a lot of a bandwidth which is really available from a broadband connections or a leased line to the ASP it self. It is also important to ensure that the ASP will be able to provide a secure, reliable service which will be available whenever you need it. Nevertheless, the idea of ASP use is rather progressive and is a background of Cloud Computing concept popular nowadays.
 
 ---
 
