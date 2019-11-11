@@ -125,6 +125,19 @@ When a virus attaches to operating system programs, it is said to have patched t
 
 A program that has a payload but does not have a reproduction routine is known as a Trojan.
 
+> Symplified
+
+There are a lot of different crimes in computing including viruses, mail bombing, phishing and others. A computer virus is a program that can reproduce itself,  infectes computer or makes it to behave in an unusual way. What's more, it infects host programs by attaching to them. The first instruction in the host program is replaced with a JUMP command that changes the normal instruction sequence. As a result, the virus instructions are executed.
+
+When a virus attaches to operating system programs, it is said to have patched the OS. Viruses are normally attached to command (.COM extension files) or executable files (.EXE files). A virus is loaded into memory when infected program is executed. Therefore, the virus then becomes a memory resident and stays there until the computer is switched off. When a virus is triggered by a predetermined event, it operates the payload. Viruses usually have 4 main parts:
+
+* A misdirection routine that enables it to hide itself
+* A reproduction routine that allows it to copy itself into other programs
+* A trigger that causes the payload
+* A payload that causes the damage and may be a harmless joke or very destructive.
+
+A program that has a payload but does not have a reproduction routine is known as a Trojan.
+
 ---
 
 ## 11.  COMPUTERS IN OUR LIFE
